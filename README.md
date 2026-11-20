@@ -1,10 +1,5 @@
 # Matemática 2 — Primer cuatrimestre de 2014
 
-## Equipo docente
-
-- **Clases teóricas:** Marco Farinati
-- **Clases prácticas:** Nicolás Capitelli, Magalí Giaroli, Diego Montero
-
 ## Prácticas
 
 - [Clase práctica del 10/4 (Bases, dimensión, suma e intersección)](ClasePractica10Abril.pdf)
@@ -32,14 +27,6 @@
 ## Otros materiales
 
 - [3era parte de la clase práctica del 24/4 (Complemento ortogonal)](ClasePracticaComplementoOrtogonal.pdf)
-
-## Bibliografía
-
-- Home » Enseñanza » Materias » Primer Cuatrimestre de 2014 » Matemática 2 » Programa y bibliografía de Matemática 2
-- E. Gentile. Notas de Álgebra Lineal . FCEN - UBA.
-- K. Hoffman, R. Kunze. Álgebra Lineal . Prentice Hall, 1973.
-- S. Lang. Álgebra Lineal , Fondo Educativo Interamericano S.A., 1982.
-- G. Jerónimo, J. Sabia, S. Tesauri. Álgebra Lineal. Disponible aquí . \[Éstas son notas pensadas para el curso de Álgebra Lineal de la Licenciatura en Matemáticas.\]
 
 ## Página original
 
